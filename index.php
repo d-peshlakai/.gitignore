@@ -84,24 +84,19 @@
 							</div>
 								<!--begin of second row -->
 							<h1>hello!</h1>
-								<div class="row">
-									<div class="col-md-4">
-										<a href="#"></a>
-										<h1></h1>
-										<div class="col-md-4">
-											<a href="#"></a>
-											<h1>hello</h1>
-											<div class="col-md-4">
-												<a href="#"></a>
-												<h1>hello</h1>
-										<div class="content-box">
-											<a href="#"></a>
-											<h1>hi</h1>
-												</div>
-											</div>
+								<div class="container">
+									<div class="row">
+										<div class="col-sm-4">
+											One of three columns
+										</div>
+										<div class="col-sm-4">
+											One of three columns
+										</div>
+										<div class="col-sm-4">
+											One of three columns
 										</div>
 									</div>
-						</div>
+								</div>
 									<footer>
 
 						</footer>
