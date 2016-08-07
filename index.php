@@ -74,14 +74,38 @@
 								<div class="row">
 								<div class="col-md-6">
 									<div class="content-box">
-										<h3>Flexbox Sticky Footer</h3>
-										<p>Keep the footer at the bottom of the page, always. Even if the content-area is "short". This is the finest sticky footer I've ever used. View the source code.</p>
+										<h3>Tim Burton Latest News!</h3>
+										<p>In May of 2016, Chris O'eil opened a new Tim Burton themed bar and restaurant in New York City.
+										Reservations are fulled booked until September. They have Tim Burton inspired alcohol drink called "Beetlejuice".
+										Food also called "Edward Burger Hands", "Warm Wonka Bar chocolate cake" and many others inspired by the artist's movies.
+										See below the images of the spectacular bar/restaurant.</p>
 									</div>
 								</div>
 							</div>
+								<!--begin of second row -->
 							<h1>hello!</h1>
-
+								<div class="row">
+									<div class="col-md-4">
+										<a href="#"></a>
+										<h1></h1>
+										<div class="col-md-4">
+											<a href="#"></a>
+											<h1>hello</h1>
+											<div class="col-md-4">
+												<a href="#"></a>
+												<h1>hello</h1>
+										<div class="content-box">
+											<a href="#"></a>
+											<h1>hi</h1>
+												</div>
+											</div>
+										</div>
+									</div>
 						</div>
+									<footer>
+
+						</footer>
+
 			</main>
 
 

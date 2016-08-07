@@ -23,4 +23,27 @@ div.container {
 	vertical-align: middle;
 	border: 0;
 	-ms-interpolation-mode: bicubic;
+
+}
+body {
+	background-color: antiquewhite;
+}
+
+/***
+* Flexbox Sticky Footer
+* http://philipwalton.github.io/solved-by-flexbox/demos/sticky-footer/
+***/
+
+/*corrects IE min-height bug*/
+html { display: flex;}
+body { width: 100%;}
+
+.sfooter {
+	display: flex;
+	flex-direction: column;
+	min-height: 100vh;
+}
+
+.sfooter-content {
+	flex: 1 0 auto;
 }
