@@ -24,7 +24,7 @@
 		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
 
 	</head>
-	<body class="sfooter-content">
+	<footer class="">
 		<div class="sfooter-content">
 			<!--Header and Navigation bar-->
 			<header>
@@ -38,7 +38,7 @@
 								<span class="sr-only">main menu</span>
 								<span class="glyphicon glyphicon-menu-hamburger"></span>
 							</button>
-							<a class="navbar-brand" href="#">Diane's Web Page</a>
+							<a class="navbar-brand" href="#">Diane's Strange Blog</a>
 						</div>
 
 						<!-- here are your main nav links, grouped for toggling -->
@@ -59,7 +59,7 @@
 					<div class="row">
 					<div class="col-md-12">
 						<div class="jumbotron">
-							<h1>Hello !</h1>
+							<img src="images/beetlehouse.jpg" class="img-fluid" alt="beetle-house">
 				</div>
 							<!--begin 2 column row-->
 							<div class="row">
@@ -82,23 +82,34 @@
 									</div>
 								</div>
 							</div>
+								<div class="featurette">
+									<img class="featurette-image" src="">
+									<h2 class="featurette-heading"></h2>
+									<p class="lead"></p>
+								</div>
+
 								<!--begin of second row -->
-							<h1>hello!</h1>
 								<div class="container">
 									<div class="row">
 										<div class="col-sm-4">
-											One of three columns
+											<img class="img-circle" src="images/purpleroom.jpg" alt="purple-room" width="180" height="180">
+											<h4>Dining Area</h4>
 										</div>
 										<div class="col-sm-4">
-											One of three columns
+											<img class="img-circle" src="images/walldecor.jpg" alt="wall-decor" width="180" height="180">
+											<h4>Fan Art Decor</h4>
 										</div>
+
 										<div class="col-sm-4">
-											One of three columns
+											<img class="img-circle" src="images/burtondrinks.jpg" alt="burton-drinks" width="180" height="180">
+											<h4>Featured Drinks</h4>
 										</div>
 									</div>
 								</div>
-									<footer>
 
+
+									<footer>
+							<p>copyright 2016</p>
 						</footer>
 
 			</main>
@@ -107,7 +118,7 @@
 
 
 		</div>
-	</body>
+	</footer>
 </html>
 
 
