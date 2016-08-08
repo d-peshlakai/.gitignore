@@ -17,6 +17,9 @@
 		<script src="//oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
 		<![endif]-->
 
+		<link href="https://fonts.googleapis.com/css?family=Lakki+Reddy" rel="stylesheet">
+
+
 		<!-- jQuery (required for Bootstap's JS plugins) -->
 		<script src="//ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
 
