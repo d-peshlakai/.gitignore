@@ -111,9 +111,10 @@
 
 								<footer>
 									<div class="footer">
+										<div class="navbar navbar-default navbar-fixed-bottom"></div>
 										<div class="container">
-											<p class="text-here">copyright 2016</p>
-
+											<a class="navbar-button">&#169 2016</a>
+										</div>
 						</footer>
 
 			</main>
