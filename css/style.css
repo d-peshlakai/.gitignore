@@ -27,10 +27,20 @@ div.jumbotron {
 	background-color: black;
 }
 body {
-	background-color: antiquewhite;
+	background-color: purple;
 	font-family: 'Lakki Reddy', cursive;
 
+
 }
+
+footer {
+	background-color: #000000;
+	color: #cccccc;
+	margin-top: 20px;
+	padding: 60px 0;
+}
+
+
 
 
 /***
@@ -42,14 +52,16 @@ body {
 html { display: flex;}
 body { width: 100%;}
 
+
+
 .sfooter {
 	display: flex;
 	flex-direction: column;
 	min-height: 100vh;
-	position: absolute;
 
 }
 
 .sfooter-content {
 	flex: 1 0 auto;
+	margin: 0;
 }

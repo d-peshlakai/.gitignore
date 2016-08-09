@@ -27,7 +27,7 @@
 		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
 
 	</head>
-	<footer class="">
+	<body class="sfooter">
 		<div class="sfooter-content">
 			<!--Header and Navigation bar-->
 			<header>
@@ -41,9 +41,8 @@
 								<span class="sr-only">main menu</span>
 								<span class="glyphicon glyphicon-menu-hamburger"></span>
 							</button>
-							<a class="navbar-brand" href="#">Diane's Strange Blog</a>
+							<a class="navbar-brand" href="#">Tim Burton's Blog</a>
 						</div>
-
 						<!-- here are your main nav links, grouped for toggling -->
 						<div class="collapse navbar-collapse" id="main-menu">
 							<a class="navbar-icon"> </a>
@@ -110,9 +109,11 @@
 									</div>
 								</div>
 
+								<footer>
+									<div class="footer">
+										<div class="container">
+											<p class="text-here">copyright 2016</p>
 
-									<footer>
-							<p>copyright 2016</p>
 						</footer>
 
 			</main>
@@ -121,7 +122,7 @@
 
 
 		</div>
-	</footer>
+	</body>
 </html>
 
 
